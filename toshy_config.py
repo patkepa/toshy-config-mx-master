@@ -739,6 +739,7 @@ keyboards_Apple = [
     'Magic Keyboard',
     'Mitsumi Electric Apple Extended USB Keyboard',
     'MX Keys Mac Keyboard',
+    '.*MX.*Keys.*Mac.*',                # Logitech MX Keys Mac (various naming variations)
     'Griffin Technology, Inc. iMate, USB To ADB Adaptor',
     '.*USB to ADB Adapt.*'  # ADB device is pretty much guaranteed to be an Apple (or NeXT) keyboard
 ]
